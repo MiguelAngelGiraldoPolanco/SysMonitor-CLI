@@ -1,5 +1,5 @@
 # SysMonitor CLI
-** SysMonitor CLI ** is a lightweight command-line interface (CLI) tool designed to help users monitor their system's performance. It provides real-time data about the CPU, memory, disk usage, processes, network connections, and more. This project aims to give developers a simple way to monitor the health and performance of their machines.
+**SysMonitor CLI** is a lightweight command-line interface (CLI) tool designed to help users monitor their system's performance. It provides real-time data about the CPU, memory, disk usage, processes, network connections, and more. This project aims to give developers a simple way to monitor the health and performance of their machines.
 
 ## Features
 - Monitor CPU usage and performance.
@@ -10,7 +10,7 @@
 - Log errors for debugging.
   
 ### Installation
-To use ** SysMonitor CLI **, follow the steps below:
+To use **SysMonitor CLI**, follow the steps below:
 
 ### Clone the repository:
 ```bash
@@ -28,8 +28,8 @@ npm start
 ## Usage
 You can use the CLI tool by running the following commands:
 ```bash
-- npm run showProcessInfo
-- npm run killProcess
+npm run showProcessInfo
+npm run killProcess
  ```
 - (etc)
  
@@ -45,7 +45,7 @@ This project is open-source and available under the MIT License.
 
 # SysMonitor CLI
 
-** SysMonitor CLI ** es una herramienta ligera de interfaz de línea de comandos (CLI) diseñada para ayudar a los usuarios a monitorear el rendimiento de su sistema. Proporciona datos en tiempo real sobre el uso del CPU, la memoria, el espacio en disco, los procesos, las conexiones de red y más. Este proyecto tiene como objetivo proporcionar a los desarrolladores una manera sencilla de monitorear la salud y el rendimiento de sus máquinas.
+**SysMonitor CLI** es una herramienta ligera de interfaz de línea de comandos (CLI) diseñada para ayudar a los usuarios a monitorear el rendimiento de su sistema. Proporciona datos en tiempo real sobre el uso del CPU, la memoria, el espacio en disco, los procesos, las conexiones de red y más. Este proyecto tiene como objetivo proporcionar a los desarrolladores una manera sencilla de monitorear la salud y el rendimiento de sus máquinas.
 
 ## Características
 - Monitoreo del uso y rendimiento de la CPU.
@@ -56,7 +56,7 @@ This project is open-source and available under the MIT License.
 - Registro de errores para depuración.
   
 ### Instalación
-Para usar ** SysMonitor CLI **, sigue los pasos a continuación:
+Para usar **SysMonitor CLI**, sigue los pasos a continuación:
  
 ### Clona el repositorio:
 ```bash
