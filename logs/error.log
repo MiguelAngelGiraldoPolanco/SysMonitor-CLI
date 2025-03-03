@@ -1,0 +1,3 @@
+Fecha: 2025-03-03T11:59:27.491Z Funcion: killProcess Error: Error: Command failed: taskkill /PID Prueba /F
+ERROR: no se encontr� el proceso "Prueba".
+

@@ -1,4 +1,24 @@
 {
+  "name": "sysmonitor-cli",
+  "version": "1.0.0",
+  "description": "A system monitoring CLI tool",
+  "main": "bin/index.js",
+  "scripts": {
+    "getProcessInfo": "node bin/index.js --getProcessInfo",
+    "showProcess": "node bin/index.js --showProcess",
+    "showProcessState": "node bin/index.js --showProcessState",
+    "killProcess": "node bin/index.js --killProcess",
+    "os": "node bin/index.js --os",
+    "cpu": "node bin/index.js --cpu",
+    "mem": "node bin/index.js --mem",
+    "disks": "node bin/index.js --disks",
+    "red": "node bin/index.js --red",
+    "connection": "node bin/index.js --connection",
+    "battery": "node bin/index.js --battery",
+    "users": "node bin/index.js --users"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC",
   "dependencies": {
     "systeminformation": "^5.25.11"
   }
