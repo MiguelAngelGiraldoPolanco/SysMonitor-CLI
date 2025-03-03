@@ -1,4 +1,4 @@
-SysMonitor CLI
+#SysMonitor CLI
 SysMonitor CLI is a lightweight command-line interface (CLI) tool designed to help users monitor their system's performance. It provides real-time data about the CPU, memory, disk usage, processes, network connections, and more. This project aims to give developers a simple way to monitor the health and performance of their machines.
 
 Features
